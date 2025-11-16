@@ -38,7 +38,7 @@ h1 {
     text-align: center;
     border-radius: 20px;
     font-style: italic;
-    border-radius: #100f0f;
+    border-radius: #f2e8e8;
 }
 
 .myform button {
@@ -59,4 +59,5 @@ h1 {
 body{
     background-image: url('fondo.jpg');
     margin: auto;
+
 }
