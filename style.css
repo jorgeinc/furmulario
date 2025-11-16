@@ -34,11 +34,11 @@
     color: aliceblue;
 }
 h1 {
-    color: rgb(12, 13, 13);
+    color: #ffffff;
     text-align: center;
     border-radius: 20px;
     font-style: italic;
-    border-radius: #ffffff;
+    border-radius: #000;
 }
 
 .myform button {
@@ -61,4 +61,5 @@ body{
     margin: auto;
 
 }
+
 
